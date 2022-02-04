@@ -1,11 +1,12 @@
-<svg width="33" height="32" viewBox="0 0 33 32" fill="none" xmlns="http://www.w3.org/2000/svg">
-<g clip-path="url(#clip0_2_1630)">
-<path d="M16.2085 2V30" stroke="#111111" stroke-width="2" stroke-miterlimit="10"/>
-<path d="M2.2085 19L16.2085 30L30.2085 19L16.1515 2L2.2085 19Z" stroke="#111111" stroke-width="2" stroke-miterlimit="10" stroke-linecap="square"/>
+<svg width="65" height="64" viewBox="0 0 65 64" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path d="M0.208496 32C0.208496 14.3269 14.5354 0 32.2085 0C49.8816 0 64.2085 14.3269 64.2085 32C64.2085 49.6731 49.8816 64 32.2085 64C14.5354 64 0.208496 49.6731 0.208496 32Z" fill="white" fill-opacity="0.8"/>
+<g clip-path="url(#clip0_2_1628)">
+<path d="M32.2085 18V46" stroke="#111111" stroke-width="2" stroke-miterlimit="10"/>
+<path d="M18.2085 35L32.2085 46L46.2085 35L32.1515 18L18.2085 35Z" stroke="#111111" stroke-width="2" stroke-miterlimit="10" stroke-linecap="square"/>
 </g>
 <defs>
-<clipPath id="clip0_2_1630">
-<rect width="32" height="32" fill="white" transform="translate(0.208496)"/>
+<clipPath id="clip0_2_1628">
+<rect width="32" height="32" fill="white" transform="translate(16.2085 16)"/>
 </clipPath>
 </defs>
 </svg>

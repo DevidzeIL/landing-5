@@ -1,0 +1,116 @@
+/* Общие стили */
+body{
+    width: 100%;
+    margin: auto;
+}
+
+/* Индивидуальные стили */
+/* Header */
+header{
+    position: absolute;
+    width: 100%;
+}
+.header__nav{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    padding: 0 40px;
+    height: 10vh;
+    background: #FFF;
+}
+
+
+
+/* Block 1 */
+.block__1{
+    background: url(/landing-5/assets/bg/bg-1.jpg);
+    background-position: center;
+    background-repeat:no-repeat;
+    background-size: cover;
+    height: 100vh;
+}
+
+
+
+.text{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.message{
+    margin-top: 30vh
+}
+
+.btn{
+    display: flex;
+    justify-content: flex-end;
+    align-items: flex-end;
+}
+
+#btn-shop-now{
+    margin-top: 12vh;
+    margin-right: 5vh;
+    width: 148px;
+    height: 148px;
+    border: none;
+    border-radius: 100px;
+    background: #000;
+    color: #FFF;
+    cursor: pointer;
+}
+
+
+/* Block ADS */
+.block__ads{
+    height: 10vh;
+    border: 2px solid #EAC1BF;
+    display: flex;
+    align-items: center;
+}
+
+
+/* Block 2 */
+.block__2{
+    background: url(/landing-5/assets/bg/bg-2.jpg);
+    background-position: center;
+    background-repeat:no-repeat;
+    background-size: cover;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+}
+
+#block-2-hero{
+    display: flex;
+    justify-content: space-between;
+}
+
+.shop__all-text{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    padding: 0 50px;
+}
+
+.shop__all-img{
+    background: url(/landing-5/assets/bg/green-blur.png);
+    background-position: center;
+    background-repeat:no-repeat;
+    background-size: cover;
+    padding: 100px;
+    display: flex;
+    text-align: center;
+    align-items: center;
+}
+
+#btn-shop-all{
+    width: 190px;
+    height: 48px;
+    border: none;
+    border-radius: 100px;
+    background: #000;
+    color: #FFF;
+    cursor: pointer;
+}
