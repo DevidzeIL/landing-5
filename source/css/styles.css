@@ -55,7 +55,7 @@ header{
 
 /* Block 1 */
 .block__1{
-    background: url(/landing-5/assets/bg/bg.png);
+    background: url(../../assets/bg/bg.png);
     background-position: center;
     background-repeat:no-repeat;
     background-size: cover;
@@ -88,6 +88,7 @@ header{
 /* Block ADS */
 .block__ads{
     height: 10vh;
+    width: 100vh;
     border: 1px solid #EAC1BF;
     border-left: none;
     border-right: none;
@@ -95,7 +96,7 @@ header{
     align-items: center;
 }
 #ads-text-rgb{
-    background: url(/landing-5/assets/bg/btn-bg.png);
+    background: url(../../assets/bg/btn-bg.png);
     background-repeat: repeat;
     background-size: contain;
     -webkit-background-clip: text;
@@ -132,7 +133,7 @@ header{
 
 /* Block 2 */
 .block__2{
-    background: url(/landing-5/assets/bg/bg-2.jpg);
+    background: url(../../assets/bg/bg-2.jpg);
     background-position: center;
     background-repeat:no-repeat;
     background-size: cover;
@@ -170,7 +171,7 @@ header{
     background: rgba(63, 202, 135, 0.31);
     filter: blur(50px);
     border-radius: 116px;
-    width: 588px;
+    width: 500  px;
     height: 570px;
     z-index: 1;
 }
@@ -305,7 +306,7 @@ header{
 }
 
 #btn-rgb{
-    background: url(/landing-5/assets/bg/btn-bg.png);
+    background: url(../../assets/bg/btn-bg.png);
     background-repeat: no-repeat;
     background-size: cover;
     border-radius: 32px;
@@ -395,7 +396,7 @@ header{
 }
 
 #block__7-bg-left{
-    background: url(/landing-5/assets/items/around/image\ 1.jpg);
+    background: url(../../assets/items/around/image\ 1.jpg);
     height: 90vh;
     width: 100%;
     background-size: contain;
@@ -404,7 +405,7 @@ header{
 }
 
 #block__7-bg-right{
-    background: url(/landing-5/assets/items/around/image\ 2.jpg);
+    background: url(../../assets/items/around/image\ 2.jpg);
     height: 90vh;
     width: 100%;
     background-size: contain;
@@ -433,7 +434,7 @@ header{
 
 /* Footer */
 footer{
-    background: url(/landing-5/assets/bg/footer.jpg);
+    background: url(../../assets/bg/footer.jpg);
     background-repeat: no-repeat;
     background-position: center;
     background-size: cover;

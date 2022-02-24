@@ -1,11 +1,11 @@
 @font-face {
     font-family: 'Basis Grotesque Pro';
-    src: url(/landing-5/assets/fonts/BasisGrotesquePro/BasisGrotesquePro-Medium.ttf);
+    src: url(../../assets/fonts/BasisGrotesquePro/BasisGrotesquePro-Medium.ttf);
 }
 
 @font-face {
     font-family: 'Ogg';
-    src: url(/landing-5/assets/fonts/Ogg/Ogg-Roman.otf);
+    src: url(../../assets/fonts/Ogg/Ogg-Roman.otf);
 }
 
 /* Общие стили */
