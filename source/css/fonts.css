@@ -1,5 +1,5 @@
 @font-face {
-    font-family: 'BasisGrotesquePro';
+    font-family: 'Basis Grotesque Pro';
     src: url(/landing-5/assets/fonts/BasisGrotesquePro/BasisGrotesquePro-Medium.ttf);
 }
 
@@ -20,9 +20,20 @@
     color: #FFFFFF;
 }
 
+.btn{
+    font-family: Basis Grotesque Pro;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 20px;
+    text-align: center;
+    text-transform: uppercase;
+}
+
+
 /* Индивидуальные стили */
 .header__text{
-    font-family: 'BasisGrotesquePro';
+    font-family: 'Basis Grotesque Pro';
     font-style: normal;
     font-weight: 500;
     font-size: 16px;
@@ -49,7 +60,7 @@
 
 /* Block ADS */
 .ads{
-    font-family: 'BasisGrotesquePro';
+    font-family: 'Basis Grotesque Pro';
     font-style: normal;
     font-weight: normal;
     text-align: center;
@@ -58,6 +69,12 @@
     letter-spacing: 1px;
     text-transform: uppercase;
     color: #000000;
+}
+
+#text-color{
+    background: linear-gradient(90.2deg, #BEC0E9 2.05%, #F5AAFC 45.9%, #FEE5A1 95.38%);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
 }
 
 
@@ -70,5 +87,231 @@
     text-align: left;
     font-size: 48px;
     line-height: 68px;
+    color: #000000;
+}
+
+
+/* Block 3 */
+
+.sub__text td{
+    font-family:'Basis Grotesque Pro';
+    font-style: normal;
+    font-weight: normal;
+    font-size: 16px;
+    line-height: 24px;
+    text-align: center;
+    color: #000000;
+}
+
+
+.sub__text-h1{
+    font-family: Basis Grotesque Pro;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 15px;
+    line-height: 16px;
+    text-align: center;
+    text-transform: uppercase;
+    color: #000000;
+}
+
+.sub__text-p{
+    font-family: Basis Grotesque Pro;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 16px;
+    line-height: 24px;
+    text-align: center;
+    color: #000000;
+}
+
+
+/* Block 3-2 */
+.matches-h2{
+    font-family: Ogg;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 47px;
+    line-height: 48px;
+    text-align: left;
+    color: #000000;
+}
+
+
+.card__name{
+    font-family: Basis Grotesque Pro;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 16px;
+    line-height: 20px;
+    text-align: center;
+    letter-spacing: 1px;
+    text-transform: uppercase;
+    color: #000000;
+}
+
+.card__price{
+    font-family: Basis Grotesque Pro;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 16px;
+    line-height: 16px;
+    text-align: center;
+    letter-spacing: 1px;
+    color: #000000;
+}
+
+
+.matches-h1{
+    font-family: Basis Grotesque Pro;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 16px;
+    line-height: 16px;
+    letter-spacing: 1px;
+    text-transform: uppercase;
+    color: #000000;
+}
+
+
+/* Block 4 */
+.block__4-h1{
+    font-family: Ogg;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 47px;
+    line-height: 68px;
+    text-align: center;
+    color: #000000;
+}
+
+
+.category-text{
+    font-family: Basis Grotesque Pro;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 16px;
+    line-height: 16px;
+    text-align: center;
+    letter-spacing: 1px;
+    text-transform: uppercase;
+    color: #000000;
+}
+
+
+/* Block 5 */
+.block__5-h1{
+    font-family: Ogg;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 116px;
+    line-height: 120px;
+    text-align: center;
+    color: #000000;
+}
+
+.kit-h1{
+    font-family: Ogg;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 47px;
+    line-height: 0px;
+    color: #000000;
+}
+
+.kit-h3{
+    font-family: Basis Grotesque Pro;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 15px;
+    line-height: 24px;
+    color: #000000;
+}
+
+
+/* Block 6 */
+.block__6-h1{
+    font-family: Ogg;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 48px;
+    line-height: 56px;
+    color: #000000;
+}
+
+.block__6-p{
+    font-family: Basis Grotesque Pro;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 16px;
+    line-height: 24px;
+    color: #000000;
+}
+
+/* Block 7 */
+.block__7-p{
+    font-family: Ogg;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 46px;
+    line-height: 72px;
+    text-align: center;
+    color: #000000;
+}
+
+.block__7-h5{
+    font-family: Basis Grotesque Pro;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 16px;
+    line-height: 16px;
+    text-align: center;
+    letter-spacing: 1px;
+    text-transform: uppercase;
+    color: #000000;
+}
+
+
+/* Block 8 */
+.block__8-h3{
+    font-family: Basis Grotesque Pro;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 16px;
+    line-height: 16px;
+    letter-spacing: 1px;
+    text-transform: uppercase;
+    color: #000000;
+}
+
+
+/* Footer */
+.footer-h1{
+    font-family: Basis Grotesque Pro;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 236px;
+    line-height: 16px;
+    text-transform: uppercase;
+    color: #000000;
+}
+
+
+.footer-h3{
+    font-family: Basis Grotesque Pro;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 16px;
+    line-height: 16px;
+    text-transform: uppercase;
+    color: #000000;
+}
+
+.footer-h4{
+    font-family: Basis Grotesque Pro;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 12px;
+    line-height: 24px;
     color: #000000;
 }
